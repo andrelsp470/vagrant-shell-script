@@ -1,0 +1,20 @@
+bshicorp/tap
+brew install hashicorp/tap/hashicorp-vagrant:rew tap hashicorp/tap
+brew install hashicorp/tap/hashicorp-vagrant
+:wq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
